@@ -1,14 +1,18 @@
-<div style="display:flex; flex-direction:columns; ">
- <code>
+<table>
+  <tr>
+    <td>
+
+<pre>
 ░░▄█▀▀▀░░░░░░░░▀▀▀█▄
 ▄███▄▄░░▀▄██▄▀░░▄▄███▄
 ▀██▄▄▄▄████████▄▄▄▄██▀
 ░░▄▄▄▄██████████▄▄▄▄
 ░▐▐▀▐▀░▀██████▀░▀▌▀▌▌
-</code>
+</pre>
 
-<a href="#">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamniem&layout=compact&theme=codeSTACKr">
-</a>
-
-</div>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamniem&layout=compact&theme=codeSTACKr" />
+    </td>
+  </tr>
+</table>
