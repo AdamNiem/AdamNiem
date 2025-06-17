@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:columns; flex-grow: -1;">
+<div style="display:flex; flex-direction:columns; ">
  <code>
 ░░▄█▀▀▀░░░░░░░░▀▀▀█▄
 ▄███▄▄░░▀▄██▄▀░░▄▄███▄
