@@ -6,7 +6,7 @@
 ░▐▐▀▐▀░▀██████▀░▀▌▀▌▌
 </pre>
 
-<pre align="center">
+```text
                   l
                   l
         XXXX      l
@@ -14,7 +14,7 @@
           11     lll
     exXXXXXXXIIIIIIIIIic
     x      XXIIIIIIIIIIi
-    X x xx XXIIIIIIIIIII
+    X xxxx XXIIIIIIIIIII
     X      XXIIIIIIIIIII
     XXXXXXXXXIIIIIIIIIII
 xxxxxxxxxxxxxxx111111111111l
@@ -29,4 +29,4 @@ xxxxxxxxxxxxxxx1111111111111
          EEEX XXXX
        EEEEEEXXXXxxx
        EEEEEExxxxxx
-</pre>
+```
