@@ -5,7 +5,6 @@
 ░░▄▄▄▄██████████▄▄▄▄
 ░▐▐▀▐▀░▀██████▀░▀▌▀▌▌
 </pre>
-<div align="center">
 
 ```text
                   l
@@ -31,5 +30,3 @@ xxxxxxxxxxxxxxx1111111111111
        EEEEEEXXXXxxx
        EEEEEExxxxxx
 ```
-
-</div>
